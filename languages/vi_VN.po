@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quarter\n"
+"POT-Creation-Date: 2013-02-21 17:11+0200\n"
+"PO-Revision-Date: 2013-02-21 17:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: Audemedia <hello@audemedia.com>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n;__ngettext_noop:1,2;"
+"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_c;"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../archive.php:11 ../archive.php:13
+msgid " Archive"
+msgstr " abc"
+
+#: ../archive.php:15
+msgid "Author Archive"
+msgstr ""
+
+#: ../archive.php:17
+msgid "Daily Archive:"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Monthly Archive:"
+msgstr ""
+
+#: ../archive.php:21
+msgid "Yearly Archive:"
+msgstr ""
+
+#: ../archive.php:59 ../index.php:34 ../search.php:41 ../single.php:34
+msgid "0"
+msgstr ""
+
+#: ../archive.php:59 ../index.php:34 ../search.php:41 ../single.php:34
+msgid "1"
+msgstr ""
+
+#: ../archive.php:59 ../index.php:34 ../search.php:41 ../single.php:34
+msgid "%"
+msgstr ""
+
+#: ../archive.php:60 ../index.php:35 ../search.php:42 ../single.php:35
+msgid "COMMENTS"
+msgstr ""
+
+#: ../archive.php:72 ../index.php:47 ../search.php:54 ../single.php:47
+msgid "Written by"
+msgstr ""
+
+#: ../archive.php:72 ../index.php:47 ../search.php:54 ../single.php:47
+msgid " Posted in "
+msgstr ""
+
+#: ../archive.php:111 ../index.php:90 ../search.php:93
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: ../archive.php:114 ../index.php:87 ../search.php:96
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: ../archive.php:121 ../index.php:97 ../search.php:103 ../single.php:84
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../comments.php:18
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:128
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../functions.php:132
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../header.php:30
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../page-archives.php:30
+msgid "Latest Posts"
+msgstr ""
+
+#: ../page-archives.php:40
+msgid "Daily Archives"
+msgstr ""
+
+#: ../page-archives.php:49
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../page-archives.php:58
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../page-archives.php:68
+msgid "Categories"
+msgstr ""
+
+#: ../page-archives.php:77
+msgid "Pages"
+msgstr ""
+
+#: ../search.php:7
+msgid "Search Results for:"
+msgstr ""
+
+#: ../searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:44
+msgid "Twitter URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:48
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:52
+msgid "Facebook URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:56
+msgid "Google+ URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:60
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:64
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:68
+msgid "RSS URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:72
+msgid "YouTube URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:76
+msgid "Flickr URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:80
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:84
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:91
+msgid "Show profile icons."
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:98
+msgid "Audemedia ++ Social Icons"
+msgstr ""
+
+#: ../lib/widgets/widget-social.php:111 ../lib/widgets/widget-tweets.php:94
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets/widget-tweets.php:20
+msgid "A widget for showing latest tweets"
+msgstr ""
+
+#: ../lib/widgets/widget-tweets.php:26
+msgid "Audemedia ++ Latest Tweets"
+msgstr ""
+
+#: ../lib/widgets/widget-tweets.php:100
+msgid "Twitter Username"
+msgstr ""
+
+#: ../lib/widgets/widget-tweets.php:106
+msgid "Number of tweets"
+msgstr ""
